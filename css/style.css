@@ -3,4 +3,6 @@ body {
     padding: 0;
 }
 
+main { margin-top: 3rem; }
+
 .container { max-width: 80vw; }
